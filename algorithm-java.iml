@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/简单" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/简单/#1两数之和" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/简单/#7整数反转" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/简单/#9回文数" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
