@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-class Solution {
+class RomanToInt {
 
     /**
      * 罗马数字包含以下七种字符: I， V， X， L，C，D 和 M。
@@ -82,7 +82,7 @@ class Solution {
 
 
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        RomanToInt solution = new RomanToInt();
         System.out.println(solution.romanToInt("III"));
         System.out.println(solution.romanToInt("IV"));
         System.out.println(solution.romanToInt("IX"));

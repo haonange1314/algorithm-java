@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/简单/#7整数反转" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/简单/#9回文数" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/简单/#13罗马数字转整数" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/简单/#14最长公共前缀" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
